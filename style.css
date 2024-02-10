@@ -1,0 +1,64 @@
+ body{
+    background-image: linear-gradient(to right, #c8b6ff , white);
+} 
+
+h1{
+    padding-top: 30px;
+    text-align: center;
+    color: blueviolet;
+}
+.input{
+        display: flex;
+        margin: auto;
+        width: 60%;
+        border: 3px solid green;
+        padding: 10px;
+        flex-wrap: wrap;
+        flex-direction: row;
+      
+}
+.in{
+    flex-wrap: wrap;
+}
+button{
+    flex-wrap: wrap;
+}
+#list{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 60%;
+    border: 3px solid green;
+    padding: 10px;
+    
+}
+ul{
+    
+    color: blueviolet;
+    
+}
+button{
+    border-radius: 15px;
+    margin-right: 10px;
+    background-color: azure;
+    text-size-adjust: 5px;
+    border-color: aquamarine;
+    font-size: 12px;
+    padding: 14px 40px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+li{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: black;
+}
+input{
+    border-radius: 18px;
+    color: rgb(41, 15, 238);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
